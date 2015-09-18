@@ -1,3 +1,4 @@
+/*eslint-env node */
 var ERR = require("async-stacktrace");
 var securityManager = require('./db/SecurityManager');
 
