@@ -2,7 +2,7 @@
 ![alt text](http://i.imgur.com/zYrGkg3.gif "Etherpad in action on PrimaryPad")
 
 # About
-Etherpad is a really-real time collaborative editor maintained by the Etherpad Community.
+blahEtherpad is a really-real time collaborative editor maintained by the Etherpad Community.
 
 Etherpad is written in JavaScript(99.9%) on both the server and client so it's easy for developers to maintain and add new features.  Because of this Etherpad has tons of customizations that you can leverage.
 
