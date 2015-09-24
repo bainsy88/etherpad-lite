@@ -8,6 +8,7 @@ run apt-get -y install curl git-core python libssl-dev pkg-config build-essentia
 run rm -rf /src
 run mkdir /src
 add ./ /src/etherpad-lite/
+run /src/etherpad-lite/bin/installDeps.sh
 expose  :9080
 
 entrypoint  ["/src/etherpad-lite/bin/run.sh", "--root"]
